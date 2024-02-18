@@ -1,0 +1,34 @@
+C:\Users\CSI\Documents\Aplikasi Inventaris\bin\Debug\net8.0-windows\Aplikasi Inventaris.exe
+C:\Users\CSI\Documents\Aplikasi Inventaris\bin\Debug\net8.0-windows\Aplikasi Inventaris.deps.json
+C:\Users\CSI\Documents\Aplikasi Inventaris\bin\Debug\net8.0-windows\Aplikasi Inventaris.runtimeconfig.json
+C:\Users\CSI\Documents\Aplikasi Inventaris\bin\Debug\net8.0-windows\Aplikasi Inventaris.dll
+C:\Users\CSI\Documents\Aplikasi Inventaris\bin\Debug\net8.0-windows\Aplikasi Inventaris.pdb
+C:\Users\CSI\Documents\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi_Inventaris.Form1.resources
+C:\Users\CSI\Documents\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.vbproj.GenerateResource.cache
+C:\Users\CSI\Documents\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSI\Documents\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.AssemblyInfoInputs.cache
+C:\Users\CSI\Documents\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.AssemblyInfo.vb
+C:\Users\CSI\Documents\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.vbproj.CoreCompileInputs.cache
+C:\Users\CSI\Documents\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.dll
+C:\Users\CSI\Documents\Aplikasi Inventaris\obj\Debug\net8.0-windows\refint\Aplikasi Inventaris.dll
+C:\Users\CSI\Documents\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.pdb
+C:\Users\CSI\Documents\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.genruntimeconfig.cache
+C:\Users\CSI\Documents\Aplikasi Inventaris\obj\Debug\net8.0-windows\ref\Aplikasi Inventaris.dll
+C:\Users\CSI\Documents\Aplikasi Inventaris\bin\Debug\net8.0-windows\inventaris.txt
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\bin\Debug\net8.0-windows\Aplikasi Inventaris.exe
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\bin\Debug\net8.0-windows\inventaris.txt
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\bin\Debug\net8.0-windows\Aplikasi Inventaris.deps.json
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\bin\Debug\net8.0-windows\Aplikasi Inventaris.runtimeconfig.json
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\bin\Debug\net8.0-windows\Aplikasi Inventaris.dll
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\bin\Debug\net8.0-windows\Aplikasi Inventaris.pdb
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi_Inventaris.Form1.resources
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.vbproj.GenerateResource.cache
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.AssemblyInfoInputs.cache
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.AssemblyInfo.vb
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.vbproj.CoreCompileInputs.cache
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.dll
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\obj\Debug\net8.0-windows\refint\Aplikasi Inventaris.dll
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.pdb
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\obj\Debug\net8.0-windows\Aplikasi Inventaris.genruntimeconfig.cache
+C:\DATA\Personal UNSIA\UNSIA_Semester 1 (lanjutan, semester2)\Pemrograman Visual\Aplikasi Inventaris\obj\Debug\net8.0-windows\ref\Aplikasi Inventaris.dll

@@ -1,0 +1,6 @@
+Pulpen - Stok: 20
+Buku - Stok: 15
+Pensil - Stok: 14
+Kertas - Stok: 12
+Penggaris - Stok: 8
+Penghapus - Stok: 15

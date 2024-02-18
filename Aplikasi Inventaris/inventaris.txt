@@ -1,0 +1,4 @@
+Pulpen,20
+Buku,10
+Pensil,24
+Kertas,12
